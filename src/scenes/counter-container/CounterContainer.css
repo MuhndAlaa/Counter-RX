@@ -1,0 +1,9 @@
+.counter-container{
+    min-height: 100vh;
+    background-color: #222;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
