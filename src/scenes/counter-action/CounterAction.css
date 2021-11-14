@@ -8,7 +8,7 @@ button{
 }
 
 button:nth-child(odd){
-    background-color: #198754;
+    background-color: #193387;
 }
 
 button:nth-child(even){
