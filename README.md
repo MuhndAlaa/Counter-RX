@@ -1,1 +1,41 @@
-link video https://www.loom.com/share/e2493405f0364e6e825dfd46e91cfdd4
+# React simple counter App
+
+A simple react project for understanding react functional components and props 
+
+
+## Run Locally
+
+Install dependcies
+
+```bash
+  npm intsall
+```
+
+To build, run the following command
+
+```bash
+  npm run build
+```
+
+To start live server, run the following command
+
+```bash
+  npm run start
+```
+
+## Home endpoint
+
+```bash
+  http://localhost:3000/
+```
+
+
+## Tech Stack
+
+**Client:** HTML, CSS , bootstrap, react.js
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muhndalaa.github.io/portfolio/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad96alaa/)
